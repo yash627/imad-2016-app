@@ -17,6 +17,11 @@ body {
     font-weight: bold;
 }
 
+.text-med{
+    margin-top:90px;
+    font-size: 200%;
+}
+
 .img-medium {
     height: 200px;
 }
