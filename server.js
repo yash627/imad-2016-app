@@ -34,7 +34,18 @@ var articles={
                     </p>
                     <hr/>
                     <h3> Gyan Bharati School </h3>
-                    <hr/>`
+                    <hr/>
+                    <br/>
+                    <h3>Courses<h3/>
+                    <ol>
+                    <li>AP 101 <li/>
+                    <li>MA 101 <li/>
+                    <li>HU 101 <li/>
+                    <li>ME 101 <li/>
+                    <li>ME 103 <li/>
+                    <li>AC 101 <li/>
+                    
+                    `
                     
                     
                     
