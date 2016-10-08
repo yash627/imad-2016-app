@@ -33,7 +33,7 @@ var articles={
                     Bachelor of Technology (B.Tech.), Civil Engineering, (2016-2020)
                     </p>
                     <hr/>
-                    <h3> Gyan Bharati School </h3>
+                    <h3> Gyan Bharati School,New Delhi </h3>
                     <hr/>
                     <br/>
                     <h3>Courses<h3/>
