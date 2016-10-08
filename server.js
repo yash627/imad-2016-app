@@ -9,7 +9,7 @@ var articles={
     'article-one' : {
         title : 'About me | Yash Khurana',
         heading : 'About Me',
-        date : '8th October, 2016 ',
+        
         content : `
                     <p>
                         Hi, everyone 
@@ -39,7 +39,7 @@ var articles={
                     },
     'article-three' : { title : 'Article Three | Yash Khurana',
         heading : 'Article Three',
-        date : '5th October, 2016 ',
+        
         content : `
                     <p>
                         This is the content for Article Three
@@ -48,7 +48,7 @@ var articles={
 function createTemplate (data) {
  var title = data.title;
  var heading = data.heading;
- var date = data.date;
+
  var content = data.content;
 
 var htmlTemplate =`
@@ -70,9 +70,7 @@ var htmlTemplate =`
             <h3>
                 ${heading}
             </h3>
-            <div>
-                ${date}
-            </div>
+           
             <div>
                ${content}
             </div>
