@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 var articles={
     'article-one' : {
-        title : 'Article One | Yash Khurana',
+        title : 'About me | Yash Khurana',
         heading : 'Article One',
         date : '3rd October, 2016 ',
         content : `
