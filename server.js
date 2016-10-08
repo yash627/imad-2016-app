@@ -25,7 +25,7 @@ var articles={
                                                 },
     'article-two' : { title : 'My Education | Yash Khurana',
         heading : 'Education',
-        date : '8th October, 2016 ',
+       
         content : `
                     <hr/>
                     <h3> Delhi Technological University </h3>
