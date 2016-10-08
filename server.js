@@ -30,7 +30,7 @@ var articles={
                     <hr/>
                     <h3> Delhi Technological University </h3>
                     <p>
-                    Bachelor of Technology (B.Tech.), Civil Engineering (2016-2020)
+                    Bachelor of Technology (B.Tech.), Civil Engineering, (2016-2020)
                     </p>
                     <hr/>
                     <h3> Gyan Bharati School </h3>
