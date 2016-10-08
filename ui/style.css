@@ -34,7 +34,8 @@ body {
 
 .img-small {
     height: 100px;
-    max-width : 150px;
+    float : right;
+   ;
 }
 .container {
                max-width: 800px;
