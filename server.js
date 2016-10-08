@@ -15,14 +15,20 @@ var articles={
                         Hi, everyone 
                     </p>
                     <p> My name is <b> Yash Khurana </b> </p>
-                    <p> Iam 19 years old and pursuing my B.Tech from <b> Delhi Technological University </b> </p>`
-                        },
-    'article-two' : { title : 'Article Two | Yash Khurana',
-        heading : 'Article Two',
+                    <p> Iam 19 years old and pursuing my B.Tech from <b> Delhi Technological University </b> </p>
+                    <br/>
+                    <h3> Interests: </h3>
+                    <ol>
+                        <li> Programming </li>
+                        <li> Web Development and Designing </li>
+                        <li> Technology </li>`
+                                                },
+    'article-two' : { title : 'My Education | Yash Khurana',
+        heading : 'My Education',
         date : '4th October, 2016 ',
         content : `
                     <p>
-                        This is the content for Article Two
+                        
                     </p>`},
     'article-three' : { title : 'Article Three | Yash Khurana',
         heading : 'Article Three',
