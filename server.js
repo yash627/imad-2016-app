@@ -31,8 +31,8 @@ var articles={
                     <h3> Delhi Technological University </h3>
                     <p>
                     Bachelor of Technology (B.Tech.), Civil Engineering, (2016-2020)
-                    </p>
-                      <img src="https://upload.wikimedia.org/wikipedia/en/b/b5/DTU%2C_Delhi_official_logo.png" class="img-small"/>
+                     <img src="https://upload.wikimedia.org/wikipedia/en/b/b5/DTU%2C_Delhi_official_logo.png" class="img-small"/>
+                     </p>
                     <hr/>
                     <h3> Gyan Bharati School,New Delhi </h3>
                     <hr/>
