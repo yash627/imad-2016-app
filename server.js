@@ -33,7 +33,8 @@ var articles={
                     Bachelor of Technology (B.Tech.), Civil Engineering (2016-2020)
                     </p>
                     <hr/>
-                    <h3> Gyan Bharati School </h3>`
+                    <h3> Gyan Bharati School </h3>
+                    <hr/>`
                     
                     
                     
