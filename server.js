@@ -15,7 +15,7 @@ var articles={
                         Hi, everyone 
                     </p>
                     <p> My name is Yash Khurana </p>
-                    <p> Iam 19 years old and pursuing my B.Tech from Delhi Technological University </p>`
+                    <p> Iam 19 years old and pursuing my B.Tech from <b> Delhi Technological University </b> </p>`
                         },
     'article-two' : { title : 'Article Two | Yash Khurana',
         heading : 'Article Two',
