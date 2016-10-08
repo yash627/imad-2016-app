@@ -4,6 +4,12 @@ body {
     margin-top: 60px;
 }
 
+.links { font-family: sans-serif;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 35px;
+}
+
 .center {
     margin-top: 80px;
     text-align: center;
