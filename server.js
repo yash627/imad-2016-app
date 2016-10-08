@@ -30,7 +30,7 @@ var articles={
                     <h3> Delhi Technological University </h3>
                     <p>
                     Bachelor of Technology (B.Tech.), Civil Engineering (2016-2020)
-                    </p>
+                    </p>`
                     
                     
                     
