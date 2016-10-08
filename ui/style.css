@@ -35,6 +35,7 @@ body {
 .img-small {
     height: 70px;
     float : right;
+    position: relative; top: -3px;
    ;
 }
 .container {
