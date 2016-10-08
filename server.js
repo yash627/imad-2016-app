@@ -27,10 +27,12 @@ var articles={
         heading : 'Education',
         date : '8th October, 2016 ',
         content : `
+                    <hr/>
                     <h3> Delhi Technological University </h3>
                     <p>
                     Bachelor of Technology (B.Tech.), Civil Engineering (2016-2020)
-                    </p>`
+                    </p>
+                    <hr/>`
                     
                     
                     
