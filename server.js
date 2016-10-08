@@ -24,12 +24,17 @@ var articles={
                         <li> Technology </li>`
                                                 },
     'article-two' : { title : 'My Education | Yash Khurana',
-        heading : 'My Education',
-        date : '4th October, 2016 ',
+        heading : 'Education',
+        date : '8th October, 2016 ',
         content : `
+                    <h3> Delhi Technological University </h3>
                     <p>
-                        
-                    </p>`},
+                    Bachelor of Technology (B.Tech.), Civil Engineering 
+                    </p>
+                    <h5>2016-2020 </h5>
+                    
+                    
+                    },
     'article-three' : { title : 'Article Three | Yash Khurana',
         heading : 'Article Three',
         date : '5th October, 2016 ',
