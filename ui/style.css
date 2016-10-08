@@ -33,10 +33,10 @@ body {
 }
 
 .img-small {
-    height: 70px;
-    float : right;
-    top :10px;
-   ;
+    height: 100px;
+    position: relative;
+    top: -45px;
+    right: -200px;
 }
 .container {
                max-width: 800px;
