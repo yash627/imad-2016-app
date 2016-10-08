@@ -38,7 +38,7 @@ var articles={
                     <img src="https://upload.wikimedia.org/wikipedia/en/b/b5/DTU%2C_Delhi_official_logo.png" class="img-small"/>
                   
                     
-                    <br/>
+                    
                     <h3>Courses<h3/>
                     <h5>Delhi College of Engineering </h5>
                     <ol>
