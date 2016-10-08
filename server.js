@@ -29,9 +29,9 @@ var articles={
         content : `
                     <h3> Delhi Technological University </h3>
                     <p>
-                    Bachelor of Technology (B.Tech.), Civil Engineering 
+                    Bachelor of Technology (B.Tech.), Civil Engineering (2016-2020)
                     </p>
-                    <h5>2016-2020 </h5>`
+                    
                     
                     
                     },
