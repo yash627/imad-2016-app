@@ -36,8 +36,8 @@ var articles={
                     <h3> Gyan Bharati School,New Delhi </h3>
                     <hr/>
                     <br/>
-                    <h2>Courses<h2/>
-                    <h4>Delhi College of Engineering </h4>
+                    <h3>Courses<h3/>
+                    <h5>Delhi College of Engineering </h5>
                     <ol>
                     <li>AP 101 </li>
                     <li>MA 101 </li>
