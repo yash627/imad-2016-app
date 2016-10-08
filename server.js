@@ -9,7 +9,7 @@ var articles={
     'article-one' : {
         title : 'About me | Yash Khurana',
         heading : 'About Me',
-        date : '3rd October, 2016 ',
+        date : '8th October, 2016 ',
         content : `
                     <p>
                         Hi, everyone 
