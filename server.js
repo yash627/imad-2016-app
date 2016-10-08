@@ -31,7 +31,7 @@ var articles={
                     <p>
                     Bachelor of Technology (B.Tech.), Civil Engineering 
                     </p>
-                    <h5>2016-2020 </h5>
+                    <h5>2016-2020 </h5>`
                     
                     
                     },
