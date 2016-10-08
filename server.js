@@ -12,10 +12,11 @@ var articles={
         date : '3rd October, 2016 ',
         content : `
                     <p>
-                        This is the content for Article One
-                    </p>`
-                    
-    },
+                        Hi, everyone 
+                    </p>
+                    <br/>
+                    <p> My name is Yash Khurana </p>`
+                        },
     'article-two' : { title : 'Article Two | Yash Khurana',
         heading : 'Article Two',
         date : '4th October, 2016 ',
