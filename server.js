@@ -32,7 +32,7 @@ var articles={
                     <p>
                     Bachelor of Technology (B.Tech.), Civil Engineering, (2016-2020)
                     </p>
-                      <img src="https://www.google.co.in/imgres?imgurl=https://lh3.googleusercontent.com/-EIo92tXjyMs/AAAAAAAAAAI/AAAAAAAAAA4/BGinmUlVGHg/s0-c-k-no-ns/photo.jpg&imgrefurl=https://plus.google.com/113228627121203074762&h=299&w=300&tbnid=7Y_YknkxYlAvfM&tbnh=224&tbnw=225&docid=JLuOaW-O-y8_cM&itg=1&usg=__CxLRMgBQTjfaawJWPqN6pi7AINQ%3D&sa=X&sqi=2&ved=0ahUKEwikooyrqMvPAhUHPY8KHesyAyMQuqIBCHkwDg" class="img-small"/>
+                      <img src="https://upload.wikimedia.org/wikipedia/en/b/b5/DTU%2C_Delhi_official_logo.png" class="img-small"/>
                     <hr/>
                     <h3> Gyan Bharati School,New Delhi </h3>
                     <hr/>
