@@ -15,7 +15,7 @@ var articles={
                         Hi, everyone 
                     </p>
                     <p> My name is <b> Yash Khurana </b> </p>
-                    <p> Iam 19 years old and pursuing my B.Tech from <b> Delhi Technological University </b> </p>
+                    <p>First year undergraduate student at the Department of Civil Engineering, Delhi Technological University, Delhi, India </p>
                     <br/>
                     <h3> Interests: </h3>
                     <ol>
