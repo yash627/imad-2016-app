@@ -44,6 +44,12 @@ body {
     position: relative;
     top: 6px;}
 
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }
+
 .container {
                max-width: 800px;
                margin: 0 auto;
