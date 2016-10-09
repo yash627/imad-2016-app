@@ -35,9 +35,11 @@ body {
 .img-small {
     
     height:100px;
-   
-   
 }
+
+.img-fb 
+{ height: 10px};
+
 .container {
                max-width: 800px;
                margin: 0 auto;
