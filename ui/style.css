@@ -29,7 +29,9 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+   height: 200px;
+    position: relative;
+    top: -40px;
 }
 
 .img-small {
