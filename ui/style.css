@@ -46,7 +46,9 @@ body {
 .img-contact
 { height: 20px;
     position: relative;
-    top: 6px;}
+    top: 6px;
+    size:20px;
+}
 
 .topcorner{
    position:absolute;
