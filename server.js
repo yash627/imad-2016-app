@@ -15,6 +15,7 @@ var articles={
                         Hi, everyone 
                     </p>
                     <p> My name is <b> Yash Khurana </b> </p>
+                    <img src="https://github.com/yash627/imad-2016-app/blob/master/images/pic.jpg?raw=true" class="img-small"/>
                     <p>First year undergraduate student at the Department of Civil Engineering, Delhi Technological University, Delhi, India </p>
                     <br/>
                     <h3> Interests: </h3>
