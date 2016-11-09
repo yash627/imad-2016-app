@@ -24,7 +24,9 @@ var articles={
                         <li> Web Development and Designing </li>
                         <li> Technology </li>
                         <li> Internet </li>
-                        <li> Music </li>`
+                        <li> Music </li>
+                        <li>Android apps Development</li>
+                        `
                                                 },
     'article-two' : { title : 'My Education | Yash Khurana',
         heading : 'Education',
