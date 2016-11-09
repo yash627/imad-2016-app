@@ -28,7 +28,7 @@ var articles={
     'article-two' : { title : 'My Education | Yash Khurana',
         heading : 'Education',
        
-        content : ` <div class = "new1">
+        content : ` 
                     <hr/>
                     <h3> Delhi Technological University </h3>
                     <p>
@@ -49,7 +49,7 @@ var articles={
                     <li>AC 101 </li>
                     <ol/>
                     <hr/>
-                    </div>
+                    
                     `
                     
                     
@@ -79,7 +79,7 @@ var htmlTemplate =`
     <link href="/ui/style.css" rel="stylesheet" />
     
 </head>    
-       <body>
+       <new1>
         <div class= "container">
             <div>
                 <a href="/">Home</a>
@@ -93,7 +93,7 @@ var htmlTemplate =`
                ${content}
             </div>
         </div>
-       </body>
+       </new1>
     
 </html>
 `;
