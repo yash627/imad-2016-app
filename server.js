@@ -28,7 +28,7 @@ var articles={
     'article-two' : { title : 'My Education | Yash Khurana',
         heading : 'Education',
        
-        content : `
+        content : ` <div class = "new1">
                     <hr/>
                     <h3> Delhi Technological University </h3>
                     <p>
@@ -49,6 +49,7 @@ var articles={
                     <li>AC 101 </li>
                     <ol/>
                     <hr/>
+                    </div>
                     `
                     
                     
