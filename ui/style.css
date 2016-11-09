@@ -43,6 +43,11 @@ body {
     height:100px;
 }
 
+
+.img-about {
+    height:500px;
+}
+
 .img-contact
 { height: 20px;
     position: relative;
