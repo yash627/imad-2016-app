@@ -62,6 +62,10 @@ body {
    top:0;
    right:0;
   }
+  
+  .img-info{
+      height:6px;
+  }
 
 .container {		
                 max-width: 800px;		
