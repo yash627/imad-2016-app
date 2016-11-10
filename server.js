@@ -52,7 +52,7 @@ var articles={
         
         content : `
                     <p>
-                        <img src="https://team.sdslabs.co/assets/email.png" class="contact"/>: <a href = mail.to@y.khurana@rediffmail.com>Yash Khurana </a>
+                        <img src="https://team.sdslabs.co/assets/email.png" class="info"/>: <a href = mailto:y.khurana@rediffmail.com>Yash Khurana </a>
                     </p>`}
 };
 function createTemplate (data) {
