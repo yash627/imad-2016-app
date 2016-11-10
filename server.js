@@ -44,18 +44,15 @@ var articles={
                     <li>AC 101 </li>
                     <ol/>
                     <hr/>
-                    
                     `
-                    
-                    
-                    
                     },
+    
     'article-three' : { title : 'Article Three | Yash Khurana',
         heading : 'Article Three',
         
         content : `
                     <p>
-                        This is the content for Article Three
+                        <img src="https://team.sdslabs.co/assets/email.png" class="links"/>: <a href = y.khurana@rediffmail.com>Yash Khurana </a>
                     </p>`}
 };
 function createTemplate (data) {
