@@ -43,10 +43,6 @@ body {
     height:100px;
 }
 
-a:hover {
-         background-color: yellow;
-        }
-
 .img-about {
     height:400px;
     position: relative;
