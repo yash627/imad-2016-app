@@ -24,7 +24,7 @@ var articles={
         heading : 'Education',
        
         content : ` 
-                     <img src= "http://globalgurus.org/Blog/wp-content/uploads/2015/08/education-11.jpg" class="img-s.small">
+                     <img src= "http://globalgurus.org/Blog/wp-content/uploads/2015/08/education-11.jpg" class="img-education">
                     <hr/>
                     <h3> Delhi Technological University </h3>
                     <p>
