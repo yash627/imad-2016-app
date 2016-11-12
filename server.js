@@ -21,7 +21,7 @@ var articles={
                         `
                                                 },
     'article-two' : { title : 'My Education | Yash Khurana',
-        heading : 'Education',
+        heading : 'Education img src= " "http://globalgurus.org/Blog/wp-content/uploads/2015/08/education-11.jpg" class=img-s.small"',
        
         content : ` 
                     <hr/>
