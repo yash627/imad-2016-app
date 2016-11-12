@@ -45,6 +45,10 @@ body {
 
 .img-education { 
     height:100px;
+    position: relative;
+    right: -135;
+    top: -60;
+
 }
 
 
