@@ -24,7 +24,6 @@ var articles={
         heading : 'Education | Yash Khurana',
        
         content : ` 
-                     
                     <hr/>
                     <h3> Delhi Technological University </h3>
                     <p>
