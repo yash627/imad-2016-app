@@ -21,7 +21,7 @@ var articles={
                         `
                                                 },
     'article-two' : { title : 'My Education | Yash Khurana',
-        heading : 'Education | Yash Khurana',
+        heading : 'Education',
        
         content : ` 
                     <hr/>
