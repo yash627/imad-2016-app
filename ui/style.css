@@ -43,6 +43,10 @@ body {
     height:100px;
 }
 
+.img-s.small { 
+    height:20px;
+}
+
 
 .img-about {
     height:400px;
