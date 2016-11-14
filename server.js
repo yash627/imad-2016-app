@@ -156,8 +156,8 @@ app.get('/fetchcomments', function(req, res) {
 	}
 });
 
-app.get('/favicon.ico', function (req, res) {
-	res.sendFile(path.join(__dirname, 'ui', 'favicon.ico'));
+app.get('/sunrise.jpg', function (req, res) {
+	res.sendFile(path.join(__dirname, 'ui', 'sunrise.jpg'));
 });
 
 app.get('/articles/:articleName', function (req, res) {
