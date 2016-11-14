@@ -68,8 +68,8 @@ var articles={
                     `
                     },
     
-    'article-three' : { title : 'Article Three | Yash Khurana',
-        heading : 'Article Three',
+    'article-three' : { title : 'Contact me | Yash Khurana',
+        heading : 'Conact me',
         
         content : `
                     <p>
