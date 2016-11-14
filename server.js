@@ -127,6 +127,80 @@ app.get('/:articleName',function (req, res){
     res.send(createTemplate(articles[articleName]));
 });
 
+var comments = [];
+
+app.get('/submit-comment', function(req, res) { 
+	// Get the name from the request
+	var comment = req.query.comment;
+	var context = req.query.context;
+	
+	var d = new Date();
+	d.toUTCString();
+
+	var obj = {'comment': comment, 'time': d.toUTCString()};
+
+	if (comments[context] == undefined)
+		comments[context] = [];	
+	comments[context].push(obj);
+	// JSON: Javascript Object Notation
+	res.send(JSON.stringify(comments[context]));
+});
+
+app.get('/fetchcomments', function(req, res) {
+	var context = req.query.context;
+  
+	if (comments[context] != undefined)
+		res.send(JSON.stringify(comments[context]));
+	else {
+		res.send("null");
+	}
+});
+
+app.get('/favicon.ico', function (req, res) {
+	res.sendFile(path.join(__dirname, 'ui', 'favicon.ico'));
+});
+
+app.get('/articles/:articleName', function (req, res) {
+	pool.query("select * from article where title = $1", [req.params.articleName], function (err, result) {
+		if (err)
+			res.status(500).send(err.toString());
+		else {
+			if (result.rows.length === 0) 
+				res.status(404).send('Article not found');
+			else {
+				var articleData = result.rows[0];
+				res.send(createTemplate(articleData));
+			}  
+		}   
+	});
+});
+
+app.get('/createForm', function(req, res) {
+	// The form's action is '/' and its method is 'POST',
+	// so the `app.post('/', ...` route will receive the
+	// result of our form
+	var html = '<form action="/" method="post">' +
+               'Enter your name:' +
+               '<input type="text" name="userName" placeholder="..." />' +
+               '<br>' +
+               '<button type="submit">Submit</button>' +
+            '</form>';
+               
+	res.send(html);
+});
+
+app.get('/create_article', function (req, res) {
+	var title = req.query.title;
+	var content = req.query.content;
+	pool.query("insert into article(title, heading, date, content) values($1, $2, $3, $4)", [title, title, new Date(), content], function (err, result) {
+		if (err)
+			res.status(500).send(err.toString());
+		else {
+			res.status(200).send('Successfully created');
+		}   
+	});
+});
+
 
 
 app.get('/ui/style.css', function (req, res) {
