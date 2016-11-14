@@ -1,4 +1,4 @@
-unction loadArticles () {
+function loadArticles () {
     
     var request = new XMLHttpRequest();
     
