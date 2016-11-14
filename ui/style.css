@@ -5,11 +5,13 @@ body {
 }
 
 
-.links { font-family: sans-serif;
-    font-size: 30px;
-    margin-top: 60px;
-    margin-left: 35px;
-}
+.dropdown { padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+          }
+    
+       
 
 .center {
     margin-top: 80px;
