@@ -117,15 +117,15 @@ var htmlTemplate = `
 }
 
 app.get('/article-one', function (req, res) {
-   res.send(createTemplate(articleone));
+   res.send(createTemplate(article-one));
 });
 
 app.get('/article-two', function (req, res) {
-   res.send(createTemplate(articletwo));
+   res.send(createTemplate(article-two));
 });
 
 app.get('/article-three', function (req, res) {
-   res.send(createTemplate(articlethree));
+   res.send(createTemplate(article-three));
 });
 
 
