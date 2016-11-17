@@ -109,6 +109,7 @@ var htmlTemplate =`
  </html>		
  `;		
  return htmlTemplate;
+}
 
 app.get('/article-one', function (req, res) {
    res.send(createTemplate(article-one));
